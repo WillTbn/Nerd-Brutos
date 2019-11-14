@@ -1,0 +1,1 @@
+Sistema de loja virtual, divulgação de serviços e redes socias do cliente. 
